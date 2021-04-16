@@ -1,0 +1,17 @@
+bentuk aplikasi android :
+1. activity : 
+2. service : berjalan di belakang layar, tidak ada tampilan
+3. broadcast receiver : pemberitahuan untuk user
+
+1.Activity
+-interface (tampilan) = menggunakan xml
+-fungsionalitas = menggunakan java
+
+interface & Fungsionalitas => compile & package (dilakukan oleh gradle) => APK = Android Package Kit
+
+Langkah :
+-Bahan/resource
+-membuat layout xml
+-fungisonalitas java
+-manifest android
+
